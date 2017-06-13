@@ -196,7 +196,7 @@ function saveToken(response) {
 
 ```
 
-###2) Get Data from the server
+### 2) Get Data from the server
 
 * Now that we are able to access the server,let's get some data from the server.
 * We need to create a new set of options for the second request.
@@ -435,7 +435,7 @@ function getClientInfo(path, token) {
 }
 ```
 
-###3) Getting realtime data
+### 3) Getting realtime data
 
 * We can also choose one equipment on the floor, and get its power consumption data in real time
 
